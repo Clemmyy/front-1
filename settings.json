@@ -1,0 +1,45 @@
+{
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.iconTheme": "vscode-icons",
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "workbench.colorTheme": "Andromeda",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "afterDelay",
+  "explorer.confirmDelete": false,
+  "workbench.startupEditor": "none",
+  "editor.minimap.enabled": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "[python]": {
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "editor.guides.bracketPairs": "active",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontFamily": "jetbrains mono",
+  "editor.fontSize": 15,
+  "terminal.integrated.fontSize": 14,
+  "editor.fontFamily": "'jetbrains mono',poppins",
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.scale": 3,
+  "editor.minimap.autohide": true,
+  "tabnine.experimentalAutoImports": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "python.languageServer": "Pylance",
+  "cSpell.userWords": ["CLASSMETHODS"],
+  "chatgpt.lang": "en",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#4dabef"
+  }
+}
